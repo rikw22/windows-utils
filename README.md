@@ -1,8 +1,9 @@
 
 
 To run Remove Crap Apps.ps1 you need  to change ExecutionPolicy:
+
 At admin powershell run:
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+`Set-ExecutionPolicy -ExecutionPolicy Unrestricted`
 
 
 Credits
